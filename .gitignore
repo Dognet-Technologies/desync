@@ -1,0 +1,7 @@
+desync/lib/
+desync/lib64/
+desync/bin/
+*-sublime.*
+desync/pyvenv.cfg 
+desync/lib64 
+tree.txt
